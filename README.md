@@ -1,6 +1,6 @@
 # LogicPro-LuaScript
 
-This script is for Automatic assignment for USB MIDI controllers in Logic Pro
+This Lua scripts is for Automatic assigning USB MIDI controllers in Logic Pro
 
 
 ## How to use
