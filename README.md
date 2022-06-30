@@ -12,4 +12,4 @@ Copy the contents of  `MIDI Device Scripts` directory to `/Applications/Logic Pr
 
 - AKAI PROFESSIONAL MPK mini MK3
   - PGM:LogicProX (Press PROG SELECT + Pad 3)
-    - MPK mini III Program Editor backup`/Users/naohito/Documents/Analog/github/LogicPro-LuaScript/Maps/Akai/MPK mini III Program Editor`
+    - MPK mini III Program Editor backup`Maps/Akai/MPK mini III Program Editor`
